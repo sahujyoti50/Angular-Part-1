@@ -1,5 +1,20 @@
 # Blog
 
+Covered Topic:
+
+1. ngForm
+2. toggle function
+3. bootstrap
+4. Angular material 
+5. template reference
+6. pipes-to transform data format
+7. advance pipes
+8. custom pipes
+9. forms-template driven
+10. form
+11. form validations
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## Development server
